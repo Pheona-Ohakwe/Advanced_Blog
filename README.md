@@ -47,10 +47,10 @@ This project implements a robust blogging application backend using Flask and SQ
 - Includes security implementation details using JWT.
 
 ### Link to my render URL
-https://advanced-blog-api-python-flask-sqlalchemy.onrender.com
+
 
 ### Link to my render URL API Docs
-https://advanced-blog-api-python-flask-sqlalchemy.onrender.com/api/docs/
+
 
 
 
@@ -58,22 +58,20 @@ https://advanced-blog-api-python-flask-sqlalchemy.onrender.com/api/docs/
 
 *Screen shots below*
 
-![screen shot](./imagesForReadme/api_docs_live_render.png)
+![screen shot](./imagesForREADme/Blog1.png)
 
-![screen shot](./imagesForReadme/endpoints_on_live_render.png)
+![screen shot](./imagesForReadme/Blog2.png)
 
-![screen shot](./imagesForReadme/schemas_on_live_render.png)
+![screen shot](./imagesForReadme/Blog3.png)
 
-![screen shot](./imagesForReadme/Screenshot%202024-07-03%20at%209.04.47 AM.png)
+![screen shot](./imagesForReadme/Blog4.png)
 
-![screen shot](./imagesForReadme/Screenshot%202024-07-03%20at%209.05.44 AM.png)
+![screen shot](./imagesForReadme/Blog5.png)
 
-![screen shot](./imagesForReadme/Screenshot%202024-07-03%20at%209.06.15 AM.png)
+![screen shot](./imagesForReadme/Blog6.png)
 
-![screen shot](./imagesForReadme/Screenshot%202024-07-03%20at%209.06.55 AM.png)
+![screen shot](./imagesForReadme/Blog7.png)
 
-![screen shot](./imagesForReadme/Screenshot%202024-07-03%20at%209.07.42 AM.png)
+![screen shot](./imagesForReadme/Blog8.png)
 
-![screen shot](./imagesForReadme/Screenshot%202024-07-03%20at%209.08.07 AM.png)
-
-![screen shot](./imagesForReadme/Screenshot%202024-07-04%20at%203.29.40 PM.png)
+![screen shot](./imagesForReadme/Blog9.png)
